@@ -1,14 +1,26 @@
-layout_spectrum: 0.7851064
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.07213639
-  lightness: 0.7238783
   brandStrength: 0.488156
+  rhythmicContrast: 0.9038097
   brandColors:
     - '#FFFFFF'
     - '#A12643'
     - '#211D1E'
     - '#BF975C'
     - '#CFCFCF'
-  rhythmicContrast: 0.9038097
-typography_spectrum: 0.3297872
+  lightness: 0.7238783
+typography_spectrum: 0.7617021
+layout_spectrum: 0.2638298
 name: BuildingSacredHeart
